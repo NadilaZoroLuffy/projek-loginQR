@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(185, 184, 184);
+    font-family: system-ui, -apple-system,sans-serif;
+}
+.conten h1{
+    color: blanchedalmond;
+    font-style: italic;
+    font-size: larges;
+    padding-left: 100px;
+}
+.isi-konten{
+    background-color: aliceblue;
+    width: 400px;
+    height: 500px;
+    float: left;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 410px;
+    margin-top: 100px;
+}
+.isi-konten h2{
+    font-size: 30px;
+}
+.kodeQR{
+    width: 340px;
+    height: 500px;
+    background-color: white;
+    float: right;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 480px;
+    margin-top: 100px;
+}
+.control{
+    width: 90%;
+    padding: 12px 8px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border: 1px solid #c4c4c4;
+    box-sizing: border-box;
+}
+.submit{
+    width: 90%;
+    padding: 12px 8px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: green;
+    color: white;
+}
+.submit:hover {
+    width: 90%;
+    padding: 12px 8px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+.isi-konten{
+    text-align: center;
+}
+.isi-konten a{
+    text-decoration: none;
+    color: blue;
+}
+.kodeQR {
+    color: darkslategray;
+    font-style: italic;
+    font-size: 18px;
+}
